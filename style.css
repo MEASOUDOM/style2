@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: black;
+    color: white;
+    font-size: 3rem;
+    font-family: ;
+}
+
+h1{
+    color: transparent;
+    background: linear-gradient(50deg, rgb(196, 132, 143), rgb(0, 114, 110));
+    -webkit-background-clip: text;
+}
